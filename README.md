@@ -10,11 +10,7 @@ Este é um projeto que utiliza Python como backend, React (JS) como frontend e D
 
 ## Instalação e Uso
 
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
+1. Clone este repositório
 
 2. Navegue até a pasta do projeto:
 
