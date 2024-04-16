@@ -33,6 +33,8 @@ Este é um projeto que utiliza Python como backend, React (JS) como frontend e D
    docker-compose up -d
    ```
 
+   O arquivo ./start.sh, executa.
+
 6. Aguarde até que todos os containers estejam em execução.
 
 7. Acesse a aplicação em [http://localhost:3000].
