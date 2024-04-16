@@ -12,11 +12,7 @@ Este é um projeto que utiliza Python como backend, React (JS) como frontend e D
 
 1. Clone este repositório
 
-2. Navegue até a pasta do projeto:
-
-   ```bash
-   cd nome-do-repositorio
-   ```
+2. Navegue até a pasta do projeto
 
 3. Na pasta `frontend`, instale as dependências do frontend:
 
